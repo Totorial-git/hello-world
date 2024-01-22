@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+nav {
+  background-color: brown;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 6px;
+}
+
+section {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.a {
+  background-color: burlywood;
+
+  width: 50%;
+  float: left;
+  height: 300px;
+  padding: 5px;
+}
+.b {
+  background-color: aquamarine;
+  width: 50%;
+  float: right;
+  height: 300px;
+  padding: 5px;
+}
+table {
+  margin: 8px;
+}
+tr,
+td {
+  padding: 5px;
+}
+footer {
+  background-color: brown;
+  color: white;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 20px;
+  text-align: center;
+}
